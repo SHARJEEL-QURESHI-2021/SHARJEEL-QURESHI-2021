@@ -22,7 +22,7 @@
 - 📫 How to reach me **sharjeelqureshi2021@gmail.com**
  
 <br/>
-# 💻 Tech Stack:
+<h2># 💻 Tech Stack:<h2/>
 <br/>
 <div display="inline">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
